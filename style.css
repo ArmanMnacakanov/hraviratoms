@@ -76,6 +76,7 @@ body{
 
 @media(max-width:552px){
 #information{
+    width:100%;
     padding:45px 20px;
 }
     #header div img{
